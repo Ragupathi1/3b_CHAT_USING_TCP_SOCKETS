@@ -1,5 +1,5 @@
 # EX.3B CREATION FOR CHAT USING TCP SOCKETS
-## Register no: 212221040135
+## Register Number: 212221040135
 ## Name: Ragupathi P
 ## AIM:
 To write a python program for creating Chat using TCP Sockets Links.
